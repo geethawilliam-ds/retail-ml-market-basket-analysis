@@ -76,6 +76,11 @@ Analysed sentiment trends from customer feedback
 
 Delivered insights for marketing and inventory optimization
 
+**Screen shots**
+
+All screen shots added in screenshots folder
+
+
 **Status**
 
 Completed – Demonstration of retail machine learning workflow
